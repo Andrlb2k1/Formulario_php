@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SITE | GN</title>
+    <title>Site</title>
     <style>
         body{
             font-family: Arial, Helvetica, sans-serif;
@@ -34,8 +34,8 @@
     </style>
 </head>
 <body>
-    <h1>Se inscreva no canal ;)</h1>
-    <h2>Prof. Gustavo Neitzke</h2>
+    <h1>Seja bem-vindo(a)</h1>
+    <h2>Faça seu login ou cadastre-se no nosso site</h2>
     <div class="box">
         <a href="login.php">Login</a>
         <a href="formulario.php">Cadastre-se</a>

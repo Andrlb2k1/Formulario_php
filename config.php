@@ -2,8 +2,8 @@
 
     $dbHost = 'Localhost';
     $dbUsername = 'root';
-    $dbPassword = 'root';
-    $dbName = 'formulario-gustavo';
+    $dbPassword = 'PostGreen2k22.';
+    $dbName = 'new_form';
     
     $conexao = new mysqli($dbHost,$dbUsername,$dbPassword,$dbName);
 
